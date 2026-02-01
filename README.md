@@ -47,8 +47,8 @@ The system models:
 ## 🧑‍💻 Classes Overview
 
 ### 👤 Person
-- Attributes: name, money, mood, healthRate
-- Methods: `sleep()`, `eat()`, `buy()
+- Attributes: `name`, `money`, `mood`, `healthRate`
+- Methods: `sleep()`, `eat()`, `buy()`
 
 ### 👨‍💼 Employee (inherits Person)
 - Attributes: `id`, `car`, `email`, `salary`, `distanceToWork`
@@ -85,15 +85,14 @@ Office data is saved into a JSON file:
     }
   ]
 }
+```
 
 ---
 📬 Contact
 
 If you’d like to reach out, you can connect with me through:
 
-Email: rana.mahmoud@example.com
+Email: ranammustafa@gmail.com
 
-GitHub: https://github.com/YourUsername
-
-LinkedIn: https://www.linkedin.com/in/YourLinkedIn
+LinkedIn: [https://www.linkedin.com/in/YourLinkedIn](https://www.linkedin.com/in/ranamahmoudmuhammed/)
 
