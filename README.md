@@ -21,7 +21,7 @@ The system models:
 ---
 
 ## 🧱 Project Structure
-ITI-Python-OOP-Project/
+
 
 <img width="510" height="201" alt="image" src="https://github.com/user-attachments/assets/e0f02140-9888-4d27-8e35-9a4355ca9c8a" />
 
@@ -47,8 +47,8 @@ ITI-Python-OOP-Project/
 ## 🧑‍💻 Classes Overview
 
 ### 👤 Person
-- Attributes: `name`, `money`, `mood`, `healthRate`
-- Methods: `sleep()`, `eat()`, `buy()`
+- Attributes: name, money, mood, healthRate
+- Methods: `sleep()`, `eat()`, `buy()
 
 ### 👨‍💼 Employee (inherits Person)
 - Attributes: `id`, `car`, `email`, `salary`, `distanceToWork`
@@ -61,7 +61,7 @@ ITI-Python-OOP-Project/
 ### 🏢 Office
 - Attributes: `name`, `employees`
 - Methods:
-  - `hire()`, `fire()`
+  - `hire()`, 'fire()'
   - `get_employee()`, `get_all_employees()`
   - `deduct()`, `reward()`
   - `check_lateness()`
@@ -85,4 +85,15 @@ Office data is saved into a JSON file:
     }
   ]
 }
+
+---
+📬 Contact
+
+If you’d like to reach out, you can connect with me through:
+
+Email: rana.mahmoud@example.com
+
+GitHub: https://github.com/YourUsername
+
+LinkedIn: https://www.linkedin.com/in/YourLinkedIn
 
