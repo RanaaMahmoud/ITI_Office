@@ -21,13 +21,15 @@ The system models:
 ---
 
 ## 🧱 Project Structure
-├── Person.py
-├── Employee.py
-├── Car.py
-├── Office.py
-├── main.py
-├── office.json
-└── README.md
+ITI-Python-OOP-Project/
+├── Person.py          # Base Person class
+├── Employee.py        # Employee class (inherits Person)
+├── Car.py             # Car class
+├── Office.py          # Office class & employee management
+├── main.py            # Entry point to run the project
+├── office.json        # JSON file to save office data
+└── README.md          # Project documentation
+
 
 
 ---
