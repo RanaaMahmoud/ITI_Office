@@ -1,0 +1,6 @@
+From: samy@gmail.com
+To: Ahmed@gmail.com
+
+Hi, Ahmed
+This is an email template 
+Thanks

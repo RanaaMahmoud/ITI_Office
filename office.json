@@ -1,0 +1,11 @@
+{
+    "office_name": "ITI Smart Village",
+    "employees": [
+        {
+            "id": 110,
+            "name": "Samy",
+            "email": "samy@gmail.com",
+            "salary": 3000
+        }
+    ]
+}
