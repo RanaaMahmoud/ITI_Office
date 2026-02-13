@@ -23,7 +23,7 @@ The system models:
 ## 📁 Project Structure
 
 ```
-project-name/
+ITI office/
 │
 ├── Person.py        # Base Person class
 ├── Employee.py      # Employee class (inherits Person)
