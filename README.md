@@ -94,5 +94,5 @@ If you’d like to reach out, you can connect with me through:
 
 Email: ranammustafa@gmail.com
 
-LinkedIn: [http://linkedin.com/in/ranamahmoudmuhammed]
+LinkedIn: http://linkedin.com/in/ranamahmoudmuhammed
 
